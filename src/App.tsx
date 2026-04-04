@@ -5,15 +5,16 @@ import { Wheel } from './components/Wheel';
 import { Popup } from './components/Popup';
 
 const WHEEL_VALUES = [
-  '1.00',
-  '1.50',
-  '2.00',
-  '2.50',
-  '3.00',
-  '3.50',
-  '4.00',
-  '4.50',
-  '5.00',
+  '10',
+  '20',
+  '30',
+  '40',
+  '50',
+  '10',
+  '20',
+  '30',
+  '40',
+  '50',
 ];
 
 export default function App() {

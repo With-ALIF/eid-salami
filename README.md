@@ -38,7 +38,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```
 2. Navigate to the project directory:
    ```bash
-   cd eid-salami-spin-wheel
+   cd eid-salami
    ```
 3. Install dependencies:
    ```bash
